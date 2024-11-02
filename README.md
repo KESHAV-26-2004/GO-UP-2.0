@@ -8,3 +8,4 @@ Both the file has Training, Agent, and Game code.
 when we run the training file the agent starts learning the game.
 
 Download the full zip file.
+USE VS CODE TO RUN
