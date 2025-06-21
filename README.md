@@ -82,14 +82,14 @@ Not based on OpenAI Gym — it's a self-built environment
 
 👨‍💻 Developed By
 
-Keshav Verma
+Keshav
 Bennett University | BTech CSE
 
 ---
 
 ## 🧾 Credits & Inspiration
 
-This project was developed entirely by **Keshav Verma**, but certain AI agent structuring concepts and reinforcement learning principles were inspired by:
+This project was developed entirely by **Keshav**, but certain AI agent structuring concepts and reinforcement learning principles were inspired by:
 
 - [freeCodeCamp.org - Snake AI with PyTorch](https://www.youtube.com/watch?v=FfWpgLFMI7w)
 - [Patrick Loeber's Snake AI GitHub Repo](https://github.com/patrickloeber/snake-ai-pytorch)
