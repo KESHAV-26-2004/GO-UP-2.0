@@ -80,7 +80,7 @@ Not based on OpenAI Gym — it's a self-built environment
 
 ---
 
-👨‍💻 Developed By
+**👨‍💻 Developed By**
 
 Keshav
 Bennett University | BTech CSE
@@ -96,7 +96,7 @@ This project was developed entirely by **Keshav**, but certain AI agent structur
 
 ---
 
-📜 License
+## 📜 License
 
 This project is built entirely from scratch for educational and research use.
 
