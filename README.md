@@ -50,8 +50,7 @@ GO_UP_AI/
 ```bash
 pip install pygame torch numpy
 ```
----
-⚠️ Known Issues
+## ⚠️ Known Issues
 
 🔁 AI sometimes loops left-right indefinitely — this behavior is due to reward structure bias or missing vertical progression rewards.
 
@@ -63,8 +62,7 @@ Reward optimization
 
 Smoother movement control
 
----
-💬 Notes
+## 💬 Notes
 
 This project is fully custom — game and AI logic made from scratch
 
@@ -72,8 +70,7 @@ Uses basic RL principles (state > action > reward > next state)
 
 Not based on OpenAI Gym — it's a self-built environment
 
----
-📎 Download Instructions
+## 📎 Download Instructions
 
 📦 Download ZIP of full project
 
